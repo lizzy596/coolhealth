@@ -120,6 +120,10 @@ li { list-style-type: disc; }
    
   } 
 
+  video::-webkit-media-controls-overlay-play-button {
+    display: none;
+  }
+
 .play {
    
    width: 10%;
